@@ -1,10 +1,34 @@
-# ポケモン鳴き声クイズ
-後々ちゃんと書きます．私の趣味のポケモン鳴き声クイズをPythonで作成してみました．
+# 🎉 Pokémon Cry Quiz! 🎉
 
-私の一番好きな鳴き声はジュプトルです。
+## Introduction
+Hey there, Pokémon fanatics! 🐾
 
-![ジュプトル](img/juputoru.png)
+What's your favorite Pokémon cry? Mine is Grovyle! Isn't it hilarious? 😂
 
-### how to use?
-1. `python getPokemonSounds.py`
-2. `python main.py`
+<img src="./img/juputoru.png" alt="Grovyle" width="300"/>
+
+I've crafted the perfect CLI quiz app for all you Pokémon cry enthusiasts out there! 
+
+One day, I'll bring it to the web too. 🌐
+
+## How To Use?
+
+First, let's get your environment set up. Add `ffmpeg` to your PATH. 📦
+
+1. **Install Pokémon cries:**
+   ```sh
+   python getPokemonSounds.py
+
+This will download all the Pokémon cries for you. 🎶
+
+2. **Run the quiz app:**
+   ```sh
+   python main.py
+
+## To Conclude
+
+Sorry folks, the quiz is currently in Japanese only. 
+
+No plans for an English version yet! 😅
+
+If you have fun, don't forget to give it a ⭐!
